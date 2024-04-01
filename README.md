@@ -1,5 +1,5 @@
 # Fitness-Mobile-Application-FitnessGo-
-Code of UI/UX of FitnessGo mobile application
+Android Fitness Application 
 
   # Fitness app
 
